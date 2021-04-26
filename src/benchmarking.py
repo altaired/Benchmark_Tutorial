@@ -18,4 +18,4 @@ def cheetah(n=1000000):
 
 # This is where pytest gets called   
 def test_case(benchmark):
-    benchmark(turtle)
+    benchmark(cheetah)
